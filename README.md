@@ -7,3 +7,4 @@ Non-profit organizations are increasingly valuing data-analysis, which helps the
 Additionally, learning about building personal websites at Github is also interesting. 
 # Portoflio
 Here is where all my data visualizations will go.
+[Week2 Assignment](/dataviz2.md)
