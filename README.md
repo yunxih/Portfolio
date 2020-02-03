@@ -8,3 +8,4 @@ Additionally, learning about building personal websites at Github is also intere
 # Portoflio
 Here is where all my data visualizations will go.
 [Week2 Assignment](/dataviz2.md)
+[Week3 Assignment](/dataviz3.md)
