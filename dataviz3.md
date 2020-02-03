@@ -1,5 +1,5 @@
 # Original Data Visualization
-The original data visualization is accessed from http://s28475.pcdn.co/wp-content/uploads/2019/06/CT17_Supporting_Data.pdf  
+The original data visualization is accessed from Page 48 of http://s28475.pcdn.co/wp-content/uploads/2019/06/CT17_Supporting_Data.pdf.  
 
 It is initiated by LaPlaca Cohen to address challenges facing by the cultural industry. This bar chart is one of the support data provided by them.  
 ![HW3 critique](https://user-images.githubusercontent.com/60080058/73620567-94495680-4600-11ea-8475-558d3cc82b8a.JPG)  
