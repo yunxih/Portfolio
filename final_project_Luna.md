@@ -43,5 +43,6 @@ https://storage.googleapis.com/planet4-international-stateless/2017/01/35f0ac1a-
 https://www.change.org/p/sustainable-servers-by-2024 (Petition for sustainable servers by 2024)  
 
 # Method and Medium
-I will use Shorthand to make my final project deliverable, where the reader can find all the charts and texts about the Carbon footprint and energy consumption of data centers.   
+I will utilize Tableau, Rawgraph, and other tools we covered in class to recreate data visualization.  
+I plan to use Shorthand to make my final project deliverable, where the reader can find all the charts and texts about the Carbon footprint and energy consumption of data centers.   
 For the final presentation, I intend to make a one-pager with Infogram, highlighting the most important data and conclusions, as well as the call to action.
