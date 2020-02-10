@@ -24,22 +24,22 @@ How can individual help - call to action
 
 # The Data Sources
 Here are sources of data that I’m going to use. I might add more/remove some of them when I start working on the project.   
-## Introduction of global warming    
+### Introduction of global warming    
 https://data.worldbank.org/topic/climate-change  
 https://www.kaggle.com/srikantsahu/co2-and-ghg-emission-data  
-## Factors contributing to Global warming  
+### Factors contributing to Global warming  
 https://www.colocationamerica.com/blog/how-data-centers-save-energy  
-## Growing IT industry & Data center over the country  
+### Growing IT industry & Data center over the country  
 https://apps.bea.gov/iTable/iTable.cfm?ReqID=51&step=1 (IT contributing to GDP)  
 https://www.statista.com/statistics/920727/distribution-of-data-centers-in-the-united-states-by-location/ (Datacenter in the USA)  
-## CO2 emission of Data center  
+### CO2 emission of Data center  
 https://www.nytimes.com/2012/09/23/technology/data-centers-waste-vast-amounts-of-energy-belying-industry-image.html?_r=1 (Data centers are wasting 90% of its energy)  
 https://storage.googleapis.com/planet4-international-stateless/2010/03/f2954209-make-it-green-cloud-computing.pdf (Make IT green)  
 https://gesi.org/public/research/smart-2020-enabling-the-low-carbon-economy-in-the-information-age (SMART2020)  
-## How can enterprises combat it?    
+### How can enterprises combat it?    
 https://docs.google.com/document/d/1eCCb3rgqtQxcRwLdTr0P_hCK_drIZrm1Dpb4dlPeG6M/edit (The state of data center energy use in 2018)  
 https://storage.googleapis.com/planet4-international-stateless/2017/01/35f0ac1a-clickclean2016-hires.pdf (Clicking Green, who is winning the race to build a green internet?)  
-## Individuals  
+### Individuals  
 https://www.change.org/p/sustainable-servers-by-2024 (Petition for sustainable servers by 2024)  
 
 # Method and Medium
