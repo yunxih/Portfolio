@@ -10,3 +10,4 @@ Here is where all my data visualizations will go.
 ## [Week2 Assignment](/dataviz2.md)
 ## [Week3 Assignment](/dataviz3.md)
 ## [Final Project Part1](/final_project_Luna.md)
+## [Final Project Part2](/final_projectII_Luna.md)
