@@ -19,4 +19,4 @@ Overall, the structure and the story arch work as I expected, but I need to make
 
 # Revised wireframes / visualizations / storyboards based on what you heard
 I revised based on the feedback above.
-[Revised](/Final Pro-Revised.pdf)
+[Revised Version](/Revised.pdf)
