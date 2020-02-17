@@ -1,6 +1,7 @@
 This is the part 2 of the final project. I decided to switch my topic since I found this one more interesting to talk about. I will revise part one of the project later as well.
 # Wirefames / storyboard for user feedback
-
+Here is the version that I used to asked for feedback.
+[Interview version](/Interview.pdf)
 # Creation of a user research protocol and completion of at least three interviews
 The target audiences that I hope to reach are people who currently own cats, people who like cats and may raise it in the future, and even those who have friends and family members with cats. I identified three friends. One of them once had a cat as her pet (cat-lover), one currently owns a dog (loves animals but leans towards dog), and one who has never had any pet before (neutral). I will name them A, B, C respectively.  
 I didn’t tell them that I make the document, but just mentioned it’s an interview for a class. I showed them the material as PDF and asked them the following questions:  
@@ -17,3 +18,5 @@ Two of them also mentioned that the call to action is too brief and should be mo
 Overall, the structure and the story arch work as I expected, but I need to make some changes, such as changing the chart ,adding details to make the document more credible.  
 
 # Revised wireframes / visualizations / storyboards based on what you heard
+I revised based on the feedback above.
+[Revised](/Final Pro-Revised.pdf)
