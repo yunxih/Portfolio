@@ -9,6 +9,11 @@ Call to Action & Conclusion
 # Story Arch
 
 # Initial Sketches
+![5](https://user-images.githubusercontent.com/60080058/75414569-fa22b880-58f6-11ea-9c02-7c91ff239bb7.jpg)
+![4](https://user-images.githubusercontent.com/60080058/75414573-fc851280-58f6-11ea-8bd4-5c942d476fca.jpg)
+![3](https://user-images.githubusercontent.com/60080058/75414578-0149c680-58f7-11ea-8b42-11ae1301d4a2.jpg)
+![2](https://user-images.githubusercontent.com/60080058/75414582-03138a00-58f7-11ea-9969-b76bcf39fa22.jpg)
+![1](https://user-images.githubusercontent.com/60080058/75414587-060e7a80-58f7-11ea-9686-93b088c989fa.jpg)
 # The Data Sources
 Here are sources of data that I’m going to use. I might add more/remove some of them when I start working on the project.
 ## Cats Population
