@@ -9,7 +9,8 @@ Additionally, learning about building personal websites at Github is also intere
 Here is where all my data visualizations will go.
 ## [Week2 Assignment](/dataviz2.md)
 ## [Week3 Assignment](/dataviz3.md)
+# Final Project
 ## [Final Project Part1(Original)](/final_project_Luna.md)
 ## [Final Project Part1(Updated)](/final_projectI_Luna.md)
 ## [Final Project Part2](/final_projectII_Luna.md)
-## Final Project Part3
+## [Final Project Part3](/final_projectIII_Luna.md)
