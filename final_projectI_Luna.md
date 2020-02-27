@@ -20,3 +20,7 @@ The State of the Birds. (2014). Retrieved from http://www.stateofthebirds.org/20
 ## Solutions  
 Levy, J.K., Gale, D.W., & Gale, L.A. (2003). Evaluation of the effect of a long-term trap-neuter-return and adoption program on a free-roaming cat population. Journal of the American Veterinary Medical Association, 222, 42-46.  
 Nelson, S.H., Evans, A.D., & Bradbury, R.B. (2005). The efficacy of collar-mounted devices in reducing the rate of predation of wildlife by domestic cats. Applied Animal Behavior Science, 94, 273-285.  
+# Method and Medium  
+I will utilize Tableau, Rawgraph, and other tools we covered in class to recreate data visualization.  
+I plan to use Shorthand to make my final project deliverable, where the reader can find all the charts and texts about cats and their effects.
+For the final presentation, I intend to make a simple version of my final deliverable, highlighting the most important data and conclusions, as well as the call to action with nav menue on Shorthand.
