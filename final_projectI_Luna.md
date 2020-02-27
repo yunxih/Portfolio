@@ -15,7 +15,7 @@ Here are sources of data that I’m going to use. I might add more/remove some o
 APPA. (n.d.). Pet Industry Market Size & Ownership Statistics. Retrieved from https://www.americanpetproducts.org/press_industrytrends.asp   
 ## Extinctions and Biodiversity Loss
 Doherty, T.S., Glen, A.S., Nimmo, D.G., Ritchie, E.G., &Dickman, C.R. (2016). Invasive predators and global biodiversity loss. PNAS, 113.
-State of the World's Birds.(2018). Retrieved from https://www.birdlife.org/sites/default/files/attachments/BL_ReportENG_V11_spreads.pdf 
+State of the World's Birds.(2018). Retrieved from https://www.birdlife.org/sites/default/files/attachments/BL_ReportENG_V11_spreads.pdf   
 The State of the Birds. (2014). Retrieved from http://www.stateofthebirds.org/2014/2014%20SotB_FINAL_low-res.pdf?__hstc=75100365.152c415c7ebadd268d2c8ede1925f0b9.1555515428014.1555515428014.1555515428014.1&__hssc=75100365.1.1555515428016&__hsfp=3174999036#_ga=2.16730623.874090047.1555515427-206864286.1555515427 
 ## Solutions  
 Levy, J.K., Gale, D.W., & Gale, L.A. (2003). Evaluation of the effect of a long-term trap-neuter-return and adoption program on a free-roaming cat population. Journal of the American Veterinary Medical Association, 222, 42-46.  
