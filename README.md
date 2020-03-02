@@ -1,12 +1,14 @@
 # Luna Hu's Portfolio
-This is my public portfolio created for Telling Stories with Data class at CMU.
+This is my public portfolio created for Telling Stories with Data class at Carnegie Mellon University. It now serves as a public portfolio for me. 
 # About me
-Hi there! I'm a first-year Arts Management student at Heinz College, CMU. My pronouns are she/her/hers. I came to CMU right after graduating from the University of Delaware, where I got a BS of Finance and minored in Art. I'm interested in visual art and intend to pursue a career in Non-profit art sector in the future.
-# What I hope to learn
-Non-profit organizations are increasingly valuing data-analysis, which helps them with audience engagement and analysis. As one way to convey data, data visualization serves an important role in the process.  Though I dealt with numbers in my undergraduate, I didn't have too many chances to learn about graphics and data visualization. I hope to learn more about the ways to effectively communicate results to my audience.   
-Additionally, learning about building personal websites at Github is also interesting. 
-# Portoflio
-Here is where all my data visualizations will go.
+Hi there! I'm a first-year Arts Management student at Heinz College, CMU. My pronouns are she/her/hers. I came to CMU right after graduating from the University of Delaware, where I got a BS of Finance and minored in Art. I'm interested in visual art and intend to pursue a career in Non-profit art sector in the future.  
+My Resume: [Resum](Resume_Revised.pdf)
+# Recent Publication
+[Image Recognition Techology in Museums](https://amt-lab.org/blog/2020/1/image-recognition-technology-in-museums)  
+[Old Wine In A New Bottle:The Integration Of The Blockchain and Auctions](https://amt-lab.org/blog/2020/2/blockchain/and/auctions)  
+[Effect of Outdoor Cats on Biodiversity](https://carnegiemellon.shorthandstories.com/-effects-of-outdoor-cats-on-biodiversity-/index.html#Title-6zOPjTBqs7)
+# Data Visualizations
+Here are all the data visualizations I created through the course.
 ## Weekly Assignments
 ### [Week2 Assignment](/dataviz2.md)
 ### [Week3 Assignment](/dataviz3.md)
