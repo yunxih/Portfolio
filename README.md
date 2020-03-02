@@ -1,5 +1,5 @@
 # Luna Hu's Portfolio
-This is my public portfolio for Telling Stories with Data class at CMU.
+This is my public portfolio created for Telling Stories with Data class at CMU.
 # About me
 Hi there! I'm a first-year Arts Management student at Heinz College, CMU. My pronouns are she/her/hers. I came to CMU right after graduating from the University of Delaware, where I got a BS of Finance and minored in Art. I'm interested in visual art and intend to pursue a career in Non-profit art sector in the future.
 # What I hope to learn
